@@ -91,54 +91,34 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 
 <div class="callout callout-success">
 
-_After the success of the first edition ‘Geophysics & Agriculture: the perfect match?’ in 2020 and the second edition 'Agriculture and geophysics: an electrical meeting!' in 2022, we are pleased to give you all a new opportunity to exchange knowledge, good practices, and passion on current trending topics in agrogeophysics!_
-
-Agrogeophysics harnesses geophysical methods such as ground-penetrating radar, electrical imaging, seismic,... from hand-held over drone to satellite-borne, to characterize patterns or processes in the soil-plant continuum of interest for agronomic management. These methods help develop sustainable agricultural practices by providing minimally-invasive, spatially consistent, multi-scale, and temporally-resolved information of processes in agro- ecosystems that is inaccessible by traditional monitoring techniques. The aim of this session is to feature applications of geophysical methods in agricultural research and/or show methodologies to overcome their inherent limitations and challenges. We welcome contributions monitoring soil or plant properties and states revealing information relevant for agricultural management; studies developing and using proximal or remote sensing techniques for mapping or monitoring soil-water-plant interactions; work focused on bridging the scale gap between these multiple techniques; or work investigating pedophysical relationships to better understand laboratory-scale links between sensed properties and soil properties and states of interest. Submissions dedicated to data fusion, utilizing innovative modeling tools for interpretation, and demonstrating novel acquisition or processing techniques are encouraged.
+Agrogeophysics applies geophysical methods – including electromagnetic induction, ground-penetrating radar, electrical imaging, and seismic techniques – using platforms ranging from hand-held instruments and ground-based systems to drone- and satellite-based sensors, to study spatial and temporal patterns in the soil–water–plant system. The seminar brings together work that uses these methods to support management and decision-making in agricultural contexts, from mapping soil properties and water dynamics to exploring subsurface processes and their role in agro-ecosystems. We also invite studies addressing methodological challenges such as scaling, the development of pedophysical relationships, integration of geophysical and ancillary data, or advances in acquisition and processing techniques.
 
 <!-- add about interactive session here? -->
 
 </div>
 <hr>
-<!--
+
 ## Invited talks
 
 <center>  
 
 
-<img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%">
+<!-- <img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%"> -->
 
-#### **Anja Klotzsche** | FZ Jülich, Germany
-_"Potential of GPR for Agrogeophysics: Mapping and monitoring soil variables in different settings"_
+#### **Giorgio Cassiani** | Università di Padova, Italy
+_"TBC"_
 
-<img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%">
+<!-- <img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%"> -->
 
-#### **Kaijun Wu** | UCLouvain, Belgium
-_"Drone-borne Ground Penetrating Radar for digital soil mapping"_
+#### **Katherine R. Grote** | Missouri University of Science and Technology, USA
+_"TBC"_
 
-<img src="images/speakers/niklas.png" style="width: 20%; border-radius: 50%">
 
-#### **Niklas Linde** | UNIL, Switzerland
-_"Advances in Bayesian inversion methodologies with high potential value in agrogeophysics"_
-
-<img src="images/speakers/adrian.png" style="width: 20%; border-radius: 50%">
-
-#### **Adrian Flores-Orozco** | TU Wien, Austria
-_"Delineation of organic carbon pools in subsoils through electrical methods"_
-
-<img src="images/speakers/benjamin.png" style="width: 20%; border-radius: 50%">
-
-#### **Benjamin Mary** | ICA-CSIC, Spain
-_"Monitoring and modelling root-zone processes with geoelectrical methods"_
-
-<img src="images/speakers/myriam.jpg" style="width: 20%; border-radius: 50%">
-
-#### **Myriam Schmutz** | Bordeaux INP, France
-_"Overview of geoelectrical advances for vineyard study"_
 
  
 
 </center>
--->
+
 <!-- <a class="btn btn-primary" href="program.html" role="button">See full program</a> -->
 
 
@@ -164,7 +144,7 @@ _"Overview of geoelectrical advances for vineyard study"_
 <hr>
 
 ## Location: Instituto Superior Técnico, Lisbon, Portugal
-
+at [Anfiteatro Abreu Faro](https://chemulisboa.weebly.com/uploads/2/6/1/8/26189991/sala_ist_2jun2014.pdf)
 
 <figure>
 	<img alt="Instituto Superior Técnico" src="images/venue.jpeg">
