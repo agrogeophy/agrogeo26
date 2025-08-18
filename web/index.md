@@ -270,7 +270,7 @@ Agriculture and Geophysics: Illuminating the subsurface!
 We're always interested in new collaborations and interesting projects.
 We'd love to hear from you if your project or idea could benefit from our
 expertise in monitoring, data analysis, inverse problems, and research software
-engineering.
+engineering. 
 
 <!-- **Reach out** to [our team](committees) to start a conversation! -->
 
