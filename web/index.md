@@ -318,7 +318,7 @@ This event is supported by:
 </style>
 
 
-<div class="row">
+<!-- <div class="row">
   <div class="column">
     <a href="https://ethz.ch">
     <img src="images/sponsors/ethz.png"/>
@@ -366,4 +366,4 @@ This event is supported by:
     <img src="images/sponsors/logo-text-blue.svg"/>
     </a>
   </div>
-</div>
+</div> -->
