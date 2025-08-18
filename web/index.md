@@ -81,8 +81,8 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 -->
 
 **Deadlines**:
-- TODO 15th December 2025 (abstract submission)
-- TODO 12th January 2026 (registration)
+- Abstract submission: 15th December 2025
+- Registration: 12th January 2026
 
 <hr>
 
@@ -126,19 +126,19 @@ _"TBC"_
 ## Practical information and registration
 
 * **Registration** 
-	- deadline: 12th January 2025
-	- fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases.
+	- Deadline: 12th January 2025
+	<!-- - fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases. -->
 
 <!-- **30** CHF invited speakers, -->
 
-* **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00)
+<!-- * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00) -->
 
 * **Seminar days:**
   - Thursday February 1st, 2024 (8:30 - 18:00) - oral presentations (morning) and workshop (afternoon)
   - Friday February 2nd, 2024 - (8:30 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
 
-* **After conference:**
-  - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee)
+<!-- * **After conference:**
+  - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee) -->
 
 
 <hr>
@@ -155,9 +155,9 @@ at [Anfiteatro Abreu Faro](https://chemulisboa.weebly.com/uploads/2/6/1/8/261899
 
 <div class="callout callout-success">
 
-### TODO How to get there
+### How to get there:
 
-The conference will take place in the **Alumni Pavillon (MM C 78.1)** which is located at 12 minutes walk from Zürich main train station (Zürich HB).
+The conference will take place in the **Instituto Superior Técnico - Anfiteatro Abreu Faro** which is just a 8 minute walk from the subway station Alameda.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3112.171821865427!2d-9.141279924827627!3d38.736819171758754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1933a24aa81f17%3A0x880c7c731a54423!2sInstituto%20Superior%20T%C3%A9cnico!5e0!3m2!1sen!2sbe!4v1750787195376!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -170,17 +170,18 @@ The conference will take place in the **Alumni Pavillon (MM C 78.1)** which is l
 
 </div>
 
-### TODO Accommodations
+### Accommodations
 Here are three suggested hotels close to the venue:
-- [Al Fonte Luminosa](https://www.fonteluminosa70.pt/) (10 minutes walk to the venue)
-- [Hotel A.S. Lisboa | Zurich – centrally located in the heart of Zurich’s old town](https://www.hotel-aslisboa.pt/) (8 minutes walk to the venue)
-- [Ibis Lisboa Centro Saldanha | ALL - ALL (accor.com)](https://all.accor.com/hotel/2117/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps) (12 minutes walk to the venue)
-- [Holiday Inn Lisbon| Pop Up Hotel | Pop Up Hotel Krone Zurich](https://www.ihg.com/holidayinn/hotels/gb/en/lisbon/lispo/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PT-_-LISPO) (9 minutes walk to the venue, promo code: AGROGEO24)
+- [Al Fonte Luminosa](https://www.fonteluminosa70.pt/) (8 minutes walk to the venue)
+- [Hotel A.S. Lisboa](https://www.hotel-aslisboa.pt/) (9 minutes walk to the venue)
+- [Holiday Inn Lisbon](https://www.ihg.com/holidayinn/hotels/gb/en/lisbon/lispo/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-PT-_-LISPO) (10 minutes walk to the venue)
+- [Ibis Lisboa Centro Saldanha | ALL - ALL (accor.com)](https://all.accor.com/hotel/2117/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps) (18 minutes walk to the venue)
+
 
 <hr>
 
 
-## TODO Workshops
+<!-- ## TODO Workshops
 
 Three workshops will be proposed on the afternoon of the first day and morning of the second day:
 - **Exploiting clustering algorithms for spatial analysis of geophysical data**
@@ -190,7 +191,7 @@ In this workshop, you will learn the tips and tricks on how to use centroid base
 Come and discover the powerful open-source SimPEG framework whose development is led by UBC. You will learn how to set-up an inversion in SimPEG using an example from ERT, then you will get the chance to set up an inversion scheme yourselves and finally get some information on how to proceed for your own data set. *Prerequisites: a bit of familiarity with Python and a Google colab account*.
 
 - **OhmPi: an open-source resistivitymeter**
-This workshop is divided in three parts where participants will be able to place components on the measurements board, assemble a multiplexer and program a raspberry pi to operate the system.
+This workshop is divided in three parts where participants will be able to place components on the measurements board, assemble a multiplexer and program a raspberry pi to operate the system. -->
 
 
 ## Contact
@@ -271,12 +272,12 @@ We'd love to hear from you if your project or idea could benefit from our
 expertise in monitoring, data analysis, inverse problems, and research software
 engineering.
 
-**Reach out** to [our team](committees) to start a conversation!
+<!-- **Reach out** to [our team](committees) to start a conversation! -->
 
 
 ## Sponsors
-
-This event is supported by:
+Your company could be mentioned here! 
+<!-- This event is supported by: -->
 
 
 <style>
