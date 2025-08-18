@@ -15,8 +15,8 @@ menu:
 #  - [<font color="green">Submit an abstract</font>, abstracts]  
 #  - [<font color="red">COVID-19 information</font>, COVID19]  
 #  - [Gallery, gallery]
-extra_navlinks:
-  - [Program, https://agrogeo26.curve.space/]
+# extra_navlinks:
+#   - [Program, https://agrogeo26.curve.space/]
 ignore:
   - README.md
   - config-alternative.json
