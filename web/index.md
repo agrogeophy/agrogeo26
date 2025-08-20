@@ -274,7 +274,7 @@ We'd love to hear from you if your project or idea could benefit from our
 expertise in monitoring, data analysis, inverse problems, and research software
 engineering. 
 
-<!-- **Reach out** to [our team](committees) to start a conversation! -->
+**Reach out** to [our team](committees) to start a conversation!
 
 
 ## Sponsors
