@@ -6,7 +6,6 @@
 
 # List of current organiser members
 current:
-
   - name: João Narciso 
     role: Organiser
     affiliation: Universidade de Lisboa Instituto Superior Técnico| Lisbon (Portugal)
@@ -55,23 +54,11 @@ current:
     google_scholar: https://scholar.google.com/citations?user=7YUwa2UAAAAJ&hl=de
     researchgate: https://www.researchgate.net/profile/Lena_Laerm
 
-  - name: Guillaume Blanchy
-    role: Website support
-    affiliation: University of Liège (Belgium)
-    email: gblanchy@uliege.be
-    orcid: 0000-0001-6341-5826
-    google_scholar: https://scholar.google.com/citations?user=2HPyKh4AAAAJ&hl=nl
-    researchgate: https://www.researchgate.net/profile/Guillaume_Blanchy
+  # - name: Guillaume Blanchy
+  #   role: Website support
+  #   affiliation: University of Liège (Belgium)
+  #   email: gblanchy@uliege.be
+  #   orcid: 0000-0001-6341-5826
+  #   google_scholar: https://scholar.google.com/citations?user=2HPyKh4AAAAJ&hl=nl
+  #   researchgate: https://www.researchgate.net/profile/Guillaume_Blanchy
 
-collaborators:
-  - name: Thomas Keller
-    role: Host
-    affiliation: Agroscope (Switzerland)
-    
-  - name: Andrea Carminati
-    role: Host
-    affiliation: ETH Zürich (Switzerland)
-
-
-
-    

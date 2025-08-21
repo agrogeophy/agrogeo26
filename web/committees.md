@@ -8,8 +8,3 @@ template: base.html
 {{ macros.make_people_list(page.current) }}
 
 <hr class="mb-5">
-
-## Hosts
-
-{{ macros.make_people_list(page.collaborators) }}
-
