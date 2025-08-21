@@ -106,14 +106,14 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 <!-- <img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%"> -->
 
 #### **Giorgio Cassiani** | Università di Padova, Italy
-_"TBC"_
+<!-- _"TBC"_ -->
 
 <!-- <img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%"> -->
 
 #### **Katherine R. Grote** | Missouri University of Science and Technology, USA
 <!-- _"TBC"_ -->
 
-#### **Joaquim João Sousa ** | Universidade de Trás-os-Montes e Alto Douro, Portugal
+#### **Joaquim João Sousa** | Universidade de Trás-os-Montes e Alto Douro, Portugal
 <!-- _"TBC"_ -->
 
 
@@ -136,8 +136,8 @@ _"TBC"_
 <!-- * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00) -->
 
 * **Seminar days:**
-  - Thursday February 1st, 2024 (9:00 - 18:00) - oral presentations (morning) and workshop (afternoon)
-  - Friday February 2nd, 2024 - (9:00 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
+  - Thursday February 1st, 2025 (9:00 - 18:00) - oral presentations (morning) and workshop (afternoon)
+  - Friday February 2nd, 2025 - (9:00 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
 
 <!-- * **After conference:**
   - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee) -->

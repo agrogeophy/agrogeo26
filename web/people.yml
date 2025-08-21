@@ -6,6 +6,7 @@
 
 # List of current organiser members
 current:
+
   - name: João Narciso 
     role: Organiser
     affiliation: Universidade de Lisboa Instituto Superior Técnico| Lisbon (Portugal)
@@ -62,14 +63,14 @@ current:
     google_scholar: https://scholar.google.com/citations?user=2HPyKh4AAAAJ&hl=nl
     researchgate: https://www.researchgate.net/profile/Guillaume_Blanchy
 
-# collaborators:
-#   - name: Thomas Keller
-#     role: Host
-#     affiliation: Agroscope (Switzerland)
+collaborators:
+  - name: Thomas Keller
+    role: Host
+    affiliation: Agroscope (Switzerland)
     
-#   - name: Andrea Carminati
-#     role: Host
-#     affiliation: ETH Zürich (Switzerland)
+  - name: Andrea Carminati
+    role: Host
+    affiliation: ETH Zürich (Switzerland)
 
 
 
