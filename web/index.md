@@ -98,7 +98,7 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 </div>
 <hr>
 
-## Invited talks
+## Invited speakers
 
 <center>  
 
@@ -111,10 +111,10 @@ _"TBC"_
 <!-- <img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%"> -->
 
 #### **Katherine R. Grote** | Missouri University of Science and Technology, USA
-_"TBC"_
+<!-- _"TBC"_ -->
 
 #### **Joaquim João Sousa ** | Universidade de Trás-os-Montes e Alto Douro, Portugal
-_"TBC"_
+<!-- _"TBC"_ -->
 
 
  
