@@ -128,7 +128,7 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 ## Practical information and registration
 
 * **Registration** 
-	- Deadline: 12th January 2025
+	- Deadline: 12th January 2026
 	<!-- - fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases. -->
 
 <!-- **30** CHF invited speakers, -->
@@ -136,8 +136,8 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 <!-- * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00) -->
 
 * **Seminar days:**
-  - Thursday February 1st, 2025 (9:00 - 18:00) - oral presentations (morning) and workshop (afternoon)
-  - Friday February 2nd, 2025 - (9:00 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
+  - Thursday February 1st, 2026 (9:00 - 18:00) - oral presentations (morning) and workshop (afternoon)
+  - Friday February 2nd, 2026 - (9:00 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
 
 <!-- * **After conference:**
   - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee) -->
