@@ -115,9 +115,8 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 #### **Joaquim João Sousa** | Universidade de Trás-os-Montes e Alto Douro, Portugal
 <!-- _"TBC"_ -->
 #### **Julián Andrés Ramos** | Universidad de la República de Uruguay, Uruguay
-<!-- "Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach" -->
-<!-- <img src="images/speakers/julián.jpeg" style="width: 20%; border-radius: 50%"> -->
-#### **Bertille Loisseai ** | HydroSciences Montpellier, France
+ 
+#### **Bertille Loisseai** |HydroSciences Montpellier, France
 
 </center>
 
