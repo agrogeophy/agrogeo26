@@ -13,7 +13,7 @@ template: base.html
 # {{ page.custom_page_title }}
 -->
 
-# Agriculture and geophysics: <br/>Electrical revelations!
+# Advances in Agrogeophysics:  <br/>: Techniques and Applications in Agriculture
 
 <!--Getting precise about precision agriculture!-->
 
@@ -105,9 +105,8 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 <!-- <img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%"> -->
 
 #### **Giorgio Cassiani** | Università di Padova, Italy
-<!-- _"TBC"_ -->
-
-<!-- <img src="images/speakers/kaijun.png" style="width: 20%; border-radius: 50%"> -->
+_"Static and dynamic aspects of non-invasive characterization and monitoring agricultural soils: assimilation with traditional probes and scale issues"_
+<img src="images/speakers/giorgio.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Katherine R. Grote** | Missouri University of Science and Technology, USA
 <!-- _"TBC"_ -->
