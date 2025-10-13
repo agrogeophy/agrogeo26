@@ -13,7 +13,7 @@ template: base.html
 # {{ page.custom_page_title }}
 -->
 
-# Advances in Agrogeophysics:  <br/>: Techniques and Applications in Agriculture
+# Advances in Agrogeophysics: <br/>Techniques and Applications in Agriculture
 
 <!--Getting precise about precision agriculture!-->
 
@@ -106,16 +106,26 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 
 #### **Giorgio Cassiani** | Università di Padova, Italy
 _"Static and dynamic aspects of non-invasive characterization and monitoring agricultural soils: assimilation with traditional probes and scale issues"_
+</div>
 <img src="images/speakers/giorgio.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Katherine R. Grote** | Missouri University of Science and Technology, USA
-<!-- _"TBC"_ -->
+_"Combined Geophysical and UAV-based Soil Property Characterization – Best Practices and Future Directions "_
+</div>
+<img src="images/speakers/grote.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Joaquim João Sousa** | Universidade de Trás-os-Montes e Alto Douro, Portugal
-<!-- _"TBC"_ -->
+_"TBC"_
+
 #### **Julián Andrés Ramos** | Universidad de la República de Uruguay, Uruguay
- 
+_"Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach"_
+</div>
+<img src="images/speakers/julian.jpg" style="width: 20%; border-radius: 50%">
+
 #### **Bertille Loisseai** |HydroSciences Montpellier, France
+_"From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach"_
+</div>
+<img src="images/speakers/bertille.jpg" style="width: 20%; border-radius: 50%">
 
 </center>
 
@@ -124,10 +134,13 @@ _"Static and dynamic aspects of non-invasive characterization and monitoring agr
 
 
 ## Practical information and registration
-
+* **Abstract submission** 
+  - Opening: 15th of October 2025
+  
 * **Registration** 
+  - Opening: 31st of October 2025
 	- Deadline: 12th January 2026
-	<!-- - fees: **free** for master students, **40** CHF for PhDs, **60** CHF for all other cases. -->
+	- fees: **60€** for Students, **100€** for all other cases.
 
 <!-- **30** CHF invited speakers, -->
 
@@ -181,17 +194,28 @@ Here are three suggested hotels close to the venue:
 <hr>
 
 
-<!-- ## TODO Workshops
+### Workshops 
 
 Three workshops will be proposed on the afternoon of the first day and morning of the second day:
-- **Exploiting clustering algorithms for spatial analysis of geophysical data**
-In this workshop, you will learn the tips and tricks on how to use centroid based clustering algorithms to analyse your spatial data. Using examples you will see how clustering can help to understand spatial patterns in several example datasets. The final example will show how clustering can combine data from different remotely sensed platforms. With the help of an online Jupyter notebook, you will also have the opportunity to try clustering on your data! Bring along some example dataset to try!
+</div>
 
-- **Introduction to SimPEG using an example with electrical resistivity tomography (ERT)**
+* **Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop**
+  - This comprehensive workshop introduces the principles and applications of Ground Penetrating Radar (GPR) in agrogeophysics, highlighting its potential to non-invasively map and monitor subsurface features in agricultural environments. Participants will learn the fundamentals of GPR technology, data acquisition, and interpretation, with a focus on soil water content, root system analysis, and soil structure assessment. Next to novel processing approaches, we will highlight additionally related challenges and pitfalls.
+
+</div>
+
+- **TBA**
+- **TBA**
+
+<hr>
+<!-- - **Exploiting clustering algorithms for spatial analysis of geophysical data**
+In this workshop, you will learn the tips and tricks on how to use centroid based clustering algorithms to analyse your spatial data. Using examples you will see how clustering can help to understand spatial patterns in several example datasets. The final example will show how clustering can combine data from different remotely sensed platforms. With the help of an online Jupyter notebook, you will also have the opportunity to try clustering on your data! Bring along some example dataset to try! -->
+
+<!-- - **Introduction to SimPEG using an example with electrical resistivity tomography (ERT)**
 Come and discover the powerful open-source SimPEG framework whose development is led by UBC. You will learn how to set-up an inversion in SimPEG using an example from ERT, then you will get the chance to set up an inversion scheme yourselves and finally get some information on how to proceed for your own data set. *Prerequisites: a bit of familiarity with Python and a Google colab account*.
 
 - **OhmPi: an open-source resistivitymeter**
-This workshop is divided in three parts where participants will be able to place components on the measurements board, assemble a multiplexer and program a raspberry pi to operate the system. -->
+This workshop is divided in three parts where participants will be able to place components on the measurements board, assemble a multiplexer and program a raspberry pi to operate the system. --> 
 
 
 ## Contact
