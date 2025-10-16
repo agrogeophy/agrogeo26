@@ -24,12 +24,9 @@ template: base.html
 <!--Getting precise about precision agriculture!-->
 
 
-
 <p class="lead">
 Agriculture + geophysics = agrogeophysics! What are the current, potential and, future applications research needs? Come and discover with us!	
 </p>
-
-
 
 
 
