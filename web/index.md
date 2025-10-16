@@ -80,10 +80,12 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 
 -->
 
-**Deadlines**:
-- Abstract submission: 15th December 2025
-- Registration: 12th January 2026
-
+**Abstract submission**:
+- Abstract submission: open now! 
+- Deadline: 15th of December 2025
+- Presentation formats: Oral and poster
+- Abstract requirements: title + authors+ affiliation(s) +  + 250 words abstract
+- [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
 <hr>
 
 ## About this event
@@ -135,7 +137,8 @@ _"From electrical resistivity tomography to soil water content: Towards a novel 
 
 ## Practical information and registration
 * **Abstract submission** 
-  - Opening: 15th of October 2025
+  - Opening now (Deadline 15th of December)
+  - [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
   
 * **Registration** 
   - Opening: 31st of October 2025
