@@ -13,8 +13,9 @@ template: base.html
 # {{ page.custom_page_title }}
 -->
 </div>
-<div class="col-md-3 col-sm-4 col-4">
-  <img alt="Seminar logo" src="{{ config.logo }}">
+<div class="col-md-7 col-sm-4 col-4">
+  <img alt="Seminar logo" src="images/agrogeo2026.jpg">
+    <!-- <img alt="Seminar logo" src="{{ config.logo }}"> -->
 </div>
 </div>
 
