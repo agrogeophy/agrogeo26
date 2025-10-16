@@ -12,6 +12,11 @@ template: base.html
 <!--
 # {{ page.custom_page_title }}
 -->
+</div>
+<div class="col-md-3 col-sm-4 col-4">
+  <img alt="Seminar logo" src="{{ config.logo }}">
+</div>
+</div>
 
 # Advances in Agrogeophysics: <br/>Techniques and Applications in Agriculture
 
@@ -24,11 +29,7 @@ Agriculture + geophysics = agrogeophysics! What are the current, potential and, 
 </p>
 
 
-</div>
-<div class="col-md-3 col-sm-4 col-4">
-  <img alt="Seminar logo" src="{{ config.logo }}">
-</div>
-</div>
+
 
 
 ## Universidade de Lisboa, Lisbon 5th and 6th February 2026
@@ -105,39 +106,58 @@ Agrogeophysics applies geophysical methods – including electromagnetic inducti
 <center>  
 
 <!-- <img src="images/speakers/anja.png" style="width: 20%; border-radius: 50%"> -->
+<img src="images/speakers/georgio_square.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Giorgio Cassiani** | Università di Padova, Italy
 _"Static and dynamic aspects of non-invasive characterization and monitoring agricultural soils: assimilation with traditional probes and scale issues"_
 </div>
-<img src="images/speakers/giorgio.jpg" style="width: 20%; border-radius: 50%">
+<img src="images/speakers/grote.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Katherine R. Grote** | Missouri University of Science and Technology, USA
 _"Combined Geophysical and UAV-based Soil Property Characterization – Best Practices and Future Directions "_
 </div>
-<img src="images/speakers/grote.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Joaquim João Sousa** | Universidade de Trás-os-Montes e Alto Douro, Portugal
 _"TBC"_
+</div>
+
+<img src="images/speakers/julian.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Julián Andrés Ramos** | Universidad de la República de Uruguay, Uruguay
 _"Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach"_
 </div>
-<img src="images/speakers/julian.jpg" style="width: 20%; border-radius: 50%">
+
+<img src="images/speakers/bertille_square.jpg" style="width: 20%; border-radius: 50%">
 
 #### **Bertille Loisseai** |HydroSciences Montpellier, France
 _"From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach"_
 </div>
-<img src="images/speakers/bertille.jpg" style="width: 20%; border-radius: 50%">
+
 
 </center>
 
 <!-- <a class="btn btn-primary" href="program.html" role="button">See full program</a> -->
+<hr>
 
+### Workshops 
+
+Three workshops will be proposed on the afternoon of the first day and morning of the second day:
+</div>
+
+* **Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop**
+  - This comprehensive workshop introduces the principles and applications of Ground Penetrating Radar (GPR) in agrogeophysics, highlighting its potential to non-invasively map and monitor subsurface features in agricultural environments. Participants will learn the fundamentals of GPR technology, data acquisition, and interpretation, with a focus on soil water content, root system analysis, and soil structure assessment. Next to novel processing approaches, we will highlight additionally related challenges and pitfalls.
+
+</div>
+
+- **TBA**
+- **TBA**
+
+<hr>
 
 
 ## Practical information and registration
 * **Abstract submission** 
-  - Opening now (Deadline 15th of December)
+  - OPEN NOW (Deadline 15th of December)
   - [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
   
 * **Registration** 
@@ -194,23 +214,10 @@ Here are three suggested hotels close to the venue:
 - [Ibis Lisboa Centro Saldanha | ALL - ALL (accor.com)](https://all.accor.com/hotel/2117/index.de.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps) (18 minutes walk to the venue)
 
 
-<hr>
 
 
-### Workshops 
 
-Three workshops will be proposed on the afternoon of the first day and morning of the second day:
-</div>
 
-* **Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop**
-  - This comprehensive workshop introduces the principles and applications of Ground Penetrating Radar (GPR) in agrogeophysics, highlighting its potential to non-invasively map and monitor subsurface features in agricultural environments. Participants will learn the fundamentals of GPR technology, data acquisition, and interpretation, with a focus on soil water content, root system analysis, and soil structure assessment. Next to novel processing approaches, we will highlight additionally related challenges and pitfalls.
-
-</div>
-
-- **TBA**
-- **TBA**
-
-<hr>
 <!-- - **Exploiting clustering algorithms for spatial analysis of geophysical data**
 In this workshop, you will learn the tips and tricks on how to use centroid based clustering algorithms to analyse your spatial data. Using examples you will see how clustering can help to understand spatial patterns in several example datasets. The final example will show how clustering can combine data from different remotely sensed platforms. With the help of an online Jupyter notebook, you will also have the opportunity to try clustering on your data! Bring along some example dataset to try! -->
 
