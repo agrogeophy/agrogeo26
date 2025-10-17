@@ -127,7 +127,7 @@ _"Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotati
 
 <img src="images/speakers/bertille_square.jpg" style="width: 20%; border-radius: 50%">
 
-#### **Bertille Loisseai** |HydroSciences Montpellier, France
+#### **Bertille Loiseau** |HydroSciences Montpellier, France
 _"From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach"_
 </div>
 
@@ -400,3 +400,4 @@ Your company could be mentioned here!
     </a>
   </div>
 </div> -->
+
