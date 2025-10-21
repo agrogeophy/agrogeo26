@@ -115,8 +115,10 @@ _"Static and dynamic aspects of non-invasive characterization and monitoring agr
 _"Combined Geophysical and UAV-based Soil Property Characterization – Best Practices and Future Directions "_
 </div>
 
+<img src="images/speakers/foto_jjSousa.jpeg" style="width: 20%; border-radius: 50%">
+
 #### **Joaquim João Sousa** | Universidade de Trás-os-Montes e Alto Douro, Portugal
-_"TBC"_
+_"Geospatial Intelligence for Precision Agriculture: Integrating Multi-Sensor Drone Data for Soil-Water-Crop Dynamics"_
 </div>
 
 <img src="images/speakers/julian.jpg" style="width: 20%; border-radius: 50%">
