@@ -11,6 +11,7 @@ current:
     affiliation: Universidade de Lisboa Instituto Superior Técnico| Lisbon (Portugal)
     email: joao.narciso@tecnico.ulisboa.pt
     orcid: 0000-0001-8182-1641
+    img: joao.jpg
     google_scholar: https://scholar.google.com/citations?user=P8OABgcAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Joao-Narciso-3
 
@@ -19,6 +20,7 @@ current:
     affiliation: Université de Neuchâtel (Switzerland)
     email: alejandro.romero@unine.ch
     orcid: 0000-0002-6654-2908
+    img: arr.jpg
     google_scholar: https://scholar.google.com/citations?user=qt_M9EcAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Alejandro-Romero-Ruiz
 
@@ -27,6 +29,7 @@ current:
     affiliation: University of Ghent (Belgium)
     email: ervdevij.VanDeVijver@ugent.be
     orcid: 0000-0002-1585-9809
+    img: ellen.jpg
     google_scholar: https://scholar.google.com/citations?user=O9w6Nc0AAAAJ&hl=nl
     researchgate: https://www.researchgate.net/profile/Ellen-Van-De-Vijver
 
@@ -35,6 +38,7 @@ current:
     affiliation: Department of Earth Sciences - University of Florence (Italy)
     email: veronica.pazzi@unifi.it
     orcid: 0000-0002-9191-0346
+    img: vero.png
     google_scholar: https://scholar.google.com/citations?user=__6xzGAAAAAJ&hl=en
     researchgate: https://www.researchgate.net/profile/Veronica-Pazzi
 
@@ -43,6 +47,7 @@ current:
     affiliation: Department of Earth Sciences - University of Florence (Italy)
     email: agnese.innocenti@unifi.it
     orcid: 0000-0001-9789-6736
+    img: agnese.png
     google_scholar: https://scholar.google.com/citations?user=hMSztzsAAAAJ&hl=de&oi=ao
     researchgate: https://www.researchgate.net/profile/Agnese-Innocenti
 
@@ -51,6 +56,7 @@ current:
     affiliation: Forschungszentrum Jülich (Germany)
     email: l.laerm@fz-juelich.de
     orcid: 0000-0002-0633-4293
+    img: lena.jpg
     google_scholar: https://scholar.google.com/citations?user=7YUwa2UAAAAJ&hl=de
     researchgate: https://www.researchgate.net/profile/Lena_Laerm
 
