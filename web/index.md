@@ -149,9 +149,12 @@ Three workshops will be proposed on the afternoon of the first day and morning o
 * **Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop**
   - This comprehensive workshop introduces the principles and applications of Ground Penetrating Radar (GPR) in agrogeophysics, highlighting its potential to non-invasively map and monitor subsurface features in agricultural environments. Participants will learn the fundamentals of GPR technology, data acquisition, and interpretation, with a focus on soil water content, root system analysis, and soil structure assessment. Next to novel processing approaches, we will highlight additionally related challenges and pitfalls.
 
+* **OhmPi: an open-source resistivitymeter**
+  - In this workshop, participants will be able to place components on the measurements board, assemble an ohmpi system and operate it via the web interface. We will explain how the OhmPi is designed at the hardware (electronics) and software level as well as what are its capabilities and limitations. We will also explore how to diagnose potential errors and fix them.
+
 </div>
 
-- **TBA**
+
 - **TBA**
 
 <hr>
