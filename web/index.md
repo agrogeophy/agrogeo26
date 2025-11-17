@@ -84,7 +84,7 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 - [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
 - Deadline: 15th of December 2025
 - Presentation formats: Oral and poster
-- Abstract requirements: title + authors+ affiliation(s) +  + 250 words abstract
+- Abstract requirements: title + authors+ affiliation(s) +  250 words abstract
 
 - Registration is open now: [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
 <hr>
@@ -177,7 +177,7 @@ Three workshops will be proposed on the afternoon of the first day and morning o
 * **Seminar days:**
   - Thursday February 5th, 2026 (9:00 - 18:00) - oral presentations (morning) and workshop (afternoon)
   - Friday February 6th, 2026 - (9:00 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
-
+  - Friday February 6th, 2026 (Evening) - Social Dinner (fee: 60€) 
 <!-- * **After conference:**
   - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee) -->
 
@@ -315,8 +315,8 @@ engineering.
 
 
 ## Sponsors
-Your company could be mentioned here! 
-<!-- This event is supported by: -->
+This event is supported by:
+
 
 
 <style>
@@ -356,12 +356,16 @@ Your company could be mentioned here!
   }
 }
 </style>
-
+  <div class="column">
+    <a href="https://www.radiodetection.com/en">
+    <img src="images/sponsors/Sensors&Software-RD.jpg"/>
+    </a>
+  </div>
 
 <!-- <div class="row">
   <div class="column">
-    <a href="https://ethz.ch">
-    <img src="images/sponsors/ethz.png"/>
+    <a href="https://www.radiodetection.com/de">
+    <img src="images/sponsors/Sensors&Software-RD.jpg"/>
     </a>
   </div>
   <div class="column" >
