@@ -135,6 +135,9 @@ _"Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotati
 _"From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach"_
 </div>
 
+#### **Andreas Kemna** | Universtät Bonn, Germany
+_"tbc"_
+</div>
 
 </center>
 
@@ -152,10 +155,10 @@ Three workshops will be proposed on the afternoon of the first day and morning o
 * **OhmPi: an open-source resistivitymeter**
   - In this workshop, participants will be able to place components on the measurements board, assemble an ohmpi system and operate it via the web interface. We will explain how the OhmPi is designed at the hardware (electronics) and software level as well as what are its capabilities and limitations. We will also explore how to diagnose potential errors and fix them.
 
+* **Open workshop on science communication**
+  - We all want our research to have impact, but it is not always so easy to bring our science out there. Developing presentation skills is one important part of becoming a good science communicator, but there is so much more you can do. Depending on your target public, but also on your personal preferences, there is a wealth of ideas you can tap from. In this workshop, I will share some stories from my own experience as a science communicator and most importantly, we will work on making some your YOUR ideas more concrete together. Please bring your creativity and enthusiasm for agrogeophysics to this workshop, since those are the most important tools we will work with!
+
 </div>
-
-
-- **TBA**
 
 <hr>
 
@@ -362,6 +365,18 @@ This event is supported by:
     </a>
   </div>
 
+  <div class="column">
+    <a href="https://www.medusa-radiometrics.com/">
+    <img src="images/sponsors/medusa.png"/>
+    </a>
+  </div>
+</div>
+    <!-- <div class="column">
+    <a href="https://subsurfaceinsights.com/">
+    <img src="images/sponsors/medusa.png"/>
+    </a>
+  </div> -->
+
 <!-- <div class="row">
   <div class="column">
     <a href="https://www.radiodetection.com/de">
@@ -379,7 +394,7 @@ This event is supported by:
     </a>
   </div>
 
-  <div class="column">
+  <!-- <div class="column">
     <a href="https://curvenote.com/oxa:Iv0z5HLWzgC0LDigFNc1/hYC59pUXsouqA6e2RiOI.1">
     <img src="images/sponsors/ssi-logo.png"/>
     </a>
@@ -410,5 +425,5 @@ This event is supported by:
     <img src="images/sponsors/logo-text-blue.svg"/>
     </a>
   </div>
-</div> -->
+</div> --> 
 
