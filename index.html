@@ -368,32 +368,43 @@ engineering.</p>
 }
 
 /* Responsive layout - makes single column-layout */
-@media screen and (max-width: 600px) {
-  .row {
-    gap: 2em;
+<style>
+  /* Make all images inside .column the same height */
+  .column img {
+    height: 120px;   /* <- change this value as you like */
+    width: auto;     /* keep aspect ratio */
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;  /* center the logos */
   }
-  .column {
-    flex: 100%;
-    padding: 0 10%;
+
+  @media screen and (max-width: 600px) {
+    .row {
+      gap: 2em;
+    }
+    .column {
+      flex: 100%;
+      padding: 0 10%;
+    }
   }
-}
 </style>
+<div class="row">
   <div class="column">
     <a href="https://www.radiodetection.com/en">
-    <img src="images/sponsors/Sensors&Software-RD.jpg"/>
+      <img src="images/sponsors/Sensors&Software-RD.jpg" />
     </a>
   </div>
   <div class="column">
     <a href="https://www.medusa-radiometrics.com/">
-    <img src="images/sponsors/medusa.png"/>
+      <img src="images/sponsors/medusa.png" />
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://subsurfaceinsights.com/">
+      <img src="images/sponsors/subsurfaceinsights.png" />
     </a>
   </div>
 </div>
-    <!-- <div class="column">
-    <a href="https://subsurfaceinsights.com/">
-    <img src="images/sponsors/medusa.png"/>
-    </a>
-  </div> -->
 <!-- <div class="row">
   <div class="column">
     <a href="https://www.radiodetection.com/de">
@@ -410,7 +421,6 @@ engineering.</p>
     <img src="images/sponsors/snf.png"/>
     </a>
   </div>
-
   <!-- <div class="column">
     <a href="https://curvenote.com/oxa:Iv0z5HLWzgC0LDigFNc1/hYC59pUXsouqA6e2RiOI.1">
     <img src="images/sponsors/ssi-logo.png"/>
@@ -450,8 +460,8 @@ engineering.</p>
   <footer>
     <div class="container">
       <p>
-        Last updated 2025/11/27 from commit
-        <a href="https://github.com/agrogeophy/agrogeo26/commit/4791104"><code>4791104</code></a>.
+        Last updated 2025/12/01 from commit
+        <a href="https://github.com/agrogeophy/agrogeo26/commit/20eef1d"><code>20eef1d</code></a>.
         Built with <a href="https://nene.leouieda.com">Nēnē</a> v0.5.0.
       </p>
       <p>
