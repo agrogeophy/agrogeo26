@@ -349,34 +349,46 @@ This event is supported by:
 }
 
 /* Responsive layout - makes single column-layout */
-@media screen and (max-width: 600px) {
-  .row {
-    gap: 2em;
+<style>
+  /* Make all images inside .column the same height */
+  .column img {
+    height: 120px;   /* <- change this value as you like */
+    width: auto;     /* keep aspect ratio */
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;  /* center the logos */
   }
-  .column {
-    flex: 100%;
-    padding: 0 10%;
+
+  @media screen and (max-width: 600px) {
+    .row {
+      gap: 2em;
+    }
+    .column {
+      flex: 100%;
+      padding: 0 10%;
+    }
   }
-}
 </style>
+
+<div class="row">
   <div class="column">
     <a href="https://www.radiodetection.com/en">
-    <img src="images/sponsors/Sensors&Software-RD.jpg"/>
+      <img src="images/sponsors/Sensors&Software-RD.jpg" />
     </a>
   </div>
 
   <div class="column">
     <a href="https://www.medusa-radiometrics.com/">
-    <img src="images/sponsors/medusa.png"/>
+      <img src="images/sponsors/medusa.png" />
+    </a>
+  </div>
+
+  <div class="column">
+    <a href="https://subsurfaceinsights.com/">
+      <img src="images/sponsors/subsurfaceinsights.png" />
     </a>
   </div>
 </div>
-    <!-- <div class="column">
-    <a href="https://subsurfaceinsights.com/">
-    <img src="images/sponsors/medusa.png"/>
-    </a>
-  </div> -->
-
 <!-- <div class="row">
   <div class="column">
     <a href="https://www.radiodetection.com/de">
