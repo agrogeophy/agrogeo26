@@ -149,13 +149,13 @@ _"Structural and functional characterization of crop roots with spectral electri
 Three workshops will be proposed on the afternoon of the first day and morning of the second day:
 </div>
 
-* **Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop**
+* **Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop | Lena Lärm and Anja Klotzsche (Forschungszentrum Jülich GmbH)**
   - This comprehensive workshop introduces the principles and applications of Ground Penetrating Radar (GPR) in agrogeophysics, highlighting its potential to non-invasively map and monitor subsurface features in agricultural environments. Participants will learn the fundamentals of GPR technology, data acquisition, and interpretation, with a focus on soil water content, root system analysis, and soil structure assessment. Next to novel processing approaches, we will highlight additionally related challenges and pitfalls.
 
-* **OhmPi: an open-source resistivitymeter**
+* **OhmPi: an open-source resistivitymeter + processing timelapse ERT data: tips and tricks | Guillaume Blanchy (ILVO, Belgium), Benjamin Mary (ICA-CSIC, Department TECH4AGRO) & Roelof Versteeg (Subsurface Insights)**
   - In this workshop, participants will be able to place components on the measurements board, assemble an ohmpi system and operate it via the web interface. We will explain how the OhmPi is designed at the hardware (electronics) and software level as well as what are its capabilities and limitations. We will also explore how to diagnose potential errors and fix them.
 
-* **Open workshop on science communication**
+* **Open workshop on science communication | Sarah Garré (ILVO, Belgium)**
   - We all want our research to have impact, but it is not always so easy to bring our science out there. Developing presentation skills is one important part of becoming a good science communicator, but there is so much more you can do. Depending on your target public, but also on your personal preferences, there is a wealth of ideas you can tap from. In this workshop, I will share some stories from my own experience as a science communicator and most importantly, we will work on making some your YOUR ideas more concrete together. Please bring your creativity and enthusiasm for agrogeophysics to this workshop, since those are the most important tools we will work with!
 
 </div>
