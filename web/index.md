@@ -136,7 +136,7 @@ _"From electrical resistivity tomography to soil water content: Towards a novel 
 </div>
 
 #### **Andreas Kemna** | Universtät Bonn, Germany
-_"tbc"_
+_"Structural and functional characterization of crop roots with spectral electrical impedance tomography – promises and challenges"_
 </div>
 
 </center>
