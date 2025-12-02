@@ -180,7 +180,7 @@ Three workshops will be proposed on the afternoon of the first day and morning o
 * **Seminar days:**
   - Thursday February 5th, 2026 (9:00 - 18:00) - oral presentations (morning) and workshop (afternoon)
   - Friday February 6th, 2026 - (9:00 - 18:00) - company fair, poster and end of workshop (morning) and oral presentations (afternoon)
-  - Friday February 6th, 2026 (Evening) - Social Dinner (fee: 60€) 
+  - Thursday February 5th, 2026 (Evening) - Social Dinner (fee: 60€) 
 <!-- * **After conference:**
   - Saturday February 3rd, 2024 - Ski trip (for those who want, not included in the fee) -->
 
