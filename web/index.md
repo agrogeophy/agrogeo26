@@ -80,9 +80,8 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 -->
 
 **Abstract submission & registration**:
-- Abstract submission: open now! 
+- <strong style="color: red;">ABSTRACT SUBMISSION OPEN UNTIL 10th of January 2026</strong>
 - [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
-- Deadline: 15th of December 2025
 - Presentation formats: Oral and poster
 - Abstract requirements: title + authors+ affiliation(s) +  250 words abstract
 
@@ -165,7 +164,7 @@ Three workshops will be proposed on the afternoon of the first day and morning o
 
 ## Practical information and registration
 * **Abstract submission** 
-  - OPEN NOW (Deadline 15th of December)
+  - OPEN NOW (Deadline 10th of January 2026)
   - [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
   
 * **Registration** 
@@ -389,6 +388,27 @@ This event is supported by:
     </a>
   </div>
 </div>
+
+<div class="row">
+  <div class="column">
+    <a href="https://www.cerena.pt/">
+      <img src="images/sponsors/LogoRGB.png" />
+    </a>
+  </div>
+
+  <div class="column">
+    <a href="https://curvenote.com/">
+      <img src="images/sponsors/curvenote.png" />
+    </a>
+  </div>
+  
+  <div class="column">
+    <a href="https://tecnico.ulisboa.pt/en/">
+      <img src="images/sponsors/LogoIST.png" />
+    </a>
+  </div>
+</div>
+
 <!-- <div class="row">
   <div class="column">
     <a href="https://www.radiodetection.com/de">
