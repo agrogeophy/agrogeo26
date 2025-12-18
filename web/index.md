@@ -134,6 +134,8 @@ _"Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotati
 _"From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach"_
 </div>
 
+<img src="images/speakers/Kemna_1Z8A3632.jpg" style="width: 20%; border-radius: 50%">
+
 #### **Andreas Kemna** | Universtät Bonn, Germany
 _"Structural and functional characterization of crop roots with spectral electrical impedance tomography – promises and challenges"_
 </div>
