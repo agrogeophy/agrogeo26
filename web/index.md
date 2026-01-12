@@ -140,6 +140,14 @@ _"From electrical resistivity tomography to soil water content: Towards a novel 
 _"Structural and functional characterization of crop roots with spectral electrical impedance tomography – promises and challenges"_
 </div>
 
+<img src="images/speakers/António_Graça.jpg" style="width: 20%; border-radius: 50%">
+
+#### **António Graça** | Sogrape, Portugal
+_"From Soil to Sip: how geophysics are unravelling 21st century wines"_
+</div>
+
+
+
 </center>
 
 <!-- <a class="btn btn-primary" href="program.html" role="button">See full program</a> -->
