@@ -80,12 +80,9 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 -->
 
 **Abstract submission & registration**:
-- <strong style="color: red;">ABSTRACT SUBMISSION OPEN UNTIL 10th of January 2026</strong>
-- [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
-- Presentation formats: Oral and poster
-- Abstract requirements: title + authors+ affiliation(s) +  250 words abstract
-
-- Registration is open now: [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
+#- <strong style="color: red;">ABSTRACT SUBMISSION OPEN UNTIL 10th of January 2026</strong>
+- Abstract submission is closed
+- Registration is still open: [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
 <hr>
 
 ## About this event
@@ -134,10 +131,10 @@ _"Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotati
 _"From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach"_
 </div>
 
-<img src="images/speakers/Kemna_1Z8A3632.jpg" style="width: 20%; border-radius: 50%">
+<img src="images/speakers/Valentin.jpeg" style="width: 20%; border-radius: 50%">
 
-#### **Andreas Kemna** | Universtät Bonn, Germany
-_"Structural and functional characterization of crop roots with spectral electrical impedance tomography – promises and challenges"_
+#### **Valentin Michels** | Universtät Bonn, Germany
+_"Investigating soil-plant-atmosphere interactions by combining spectral electrical impedance tomography with environmental and physiological timeseries"_
 </div>
 
 <img src="images/speakers/António_Graça.jpg" style="width: 20%; border-radius: 50%">
@@ -174,14 +171,11 @@ Three workshops will be proposed on the afternoon of the first day and morning o
 
 ## Practical information and registration
 * **Abstract submission** 
-  - OPEN NOW (Deadline 10th of January 2026)
-  - [SUBMIT ABSTRACT HERE](https://docs.google.com/forms/d/1J6cLbKdU2gRE9MBRH4-KTE4EWq_OxpQ1etyYrozJivk/viewform?edit_requested=true&pli=1) 
+  - Abstract submission is closed
   
 * **Registration** 
-  - Opening: 31st of October 2025
-	- Deadline: 12th January 2026
-	- fees: **60€** for Students, **100€** for all other cases.
-  - [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
+	- [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
+  - fees: **60€** for Students, **100€** for all other cases.
 <!-- **30** CHF invited speakers, -->
 
 <!-- * **Arrival + conference dinner:** Wednesday January 31st, 2024 - Social dinner in the evening (18:00) -->
