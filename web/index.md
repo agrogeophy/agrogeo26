@@ -80,7 +80,6 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 -->
 
 **Abstract submission & registration**:
-#- <strong style="color: red;">ABSTRACT SUBMISSION OPEN UNTIL 10th of January 2026</strong>
 - Abstract submission is closed
 - Registration is still open: [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
 <hr>
