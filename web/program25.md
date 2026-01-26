@@ -60,7 +60,7 @@ template: base.html
 <tbody>
   <!-- Icebreaker -->
   <tr>
-    <th class="tg-2dfk" colspan="2">Wednesday, February 4th, 2025</th>
+    <th class="tg-2dfk" colspan="2">Wednesday, February 4th, 2026</th>
   </tr>
   <tr>
     <td class="tg-c3ow">19:00</td>
@@ -72,7 +72,7 @@ template: base.html
 
   <!-- Day 1 -->
   <tr>
-    <th class="tg-n533" colspan="2">Day 1 — Thursday, February 5th, 2025</th>
+    <th class="tg-n533" colspan="2">Day 1 — Thursday, February 5th, 2026</th>
   </tr>
 
   <tr>
@@ -197,7 +197,7 @@ template: base.html
 
   <!-- Day 2 -->
   <tr>
-    <th class="tg-n533" colspan="2">Day 2 — Friday, February 6th, 2025</th>
+    <th class="tg-n533" colspan="2">Day 2 — Friday, February 6th, 2026</th>
   </tr>
 
   <tr class="row-yellow">
