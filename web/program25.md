@@ -1,0 +1,316 @@
+---
+title: 🗓️ Meeting agenda
+template: base.html
+---
+
+# {{ page.custom_page_title }}
+
+<!-- Book of abstracts: [download here](./media/AgroGeophysics_Seminar_Abstarct-Booklet.pdf)-->
+
+<div class="callout">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{
+  background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:18px;overflow:hidden;padding:10px 5px;word-break:normal;
+  vertical-align:top;
+}
+.tg th{
+  background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:18px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;
+}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top;white-space:nowrap;}
+.tg .tg-2dfk{background-color:#ecf4ff;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-n533{background-color:#dae8fc;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ncd7{background-color:#ffffc7;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-90e1{background-color:#ffccc9;border-color:inherit;text-align:left;vertical-align:top}
+
+/* ✅ guaranteed row coloring across BOTH columns */
+.tg tr.row-yellow td{ background-color:#ffffc7 !important; }
+.tg tr.row-red td{ background-color:#ffccc9 !important; }
+.tg tr.row-coffee td{ background-color:#f3e6d8 !important; } /* light brown */
+
+/* Workshops: 3 parallel columns */
+.tg .ws-grid{width:100%; border-collapse:separate; border-spacing:10px 0;}
+.tg .ws-grid td{border:none !important; padding:0 !important; background:transparent !important; vertical-align:top;}
+.tg .ws-card{
+  border:1px solid #ddd; border-radius:10px; padding:10px 12px; background:#fff;
+}
+.tg .ws-title{font-weight:700; margin:0 0 6px 0;}
+.tg .ws-meta{margin:6px 0 0 0; font-size:16px; color:#444; line-height:1.25;}
+.tg .badge{
+  display:inline-block; padding:2px 8px; border-radius:999px;
+  font-size:14px; font-weight:700; border:1px solid #bbb; margin-right:6px;
+  vertical-align:middle;
+}
+.tg .badge-geolab{background:#eef6ff;}
+.tg .badge-anf{background:#f3f0ff;}
+.tg .badge-der{background:#f2fff0;}
+</style>
+
+<table class="tg" style="table-layout: fixed; width: 1027px">
+<colgroup>
+  <col style="width: 170px">
+  <col style="width: 857px">
+</colgroup>
+
+<tbody>
+  <!-- Icebreaker -->
+  <tr>
+    <th class="tg-2dfk" colspan="2">Wednesday, February 4th, 2025</th>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">19:00</td>
+    <td class="tg-fymr">
+      🧊 Optional Icebreaker drinks:
+      <a href="https://www.cervetecalisboa.com/" target="_blank" rel="noopener noreferrer">CERVETECA Lisboa</a>
+    </td>
+  </tr>
+
+  <!-- Day 1 -->
+  <tr>
+    <th class="tg-n533" colspan="2">Day 1 — Thursday, February 5th, 2025</th>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow">08:45</td>
+    <td class="tg-fymr">
+      Welcome<br/>
+      <span style="font-weight:400">
+        Maria João Pereira (DER)<br/>
+        Leonardo Azevedo (CERENA)<br/>
+        João Narciso
+      </span>
+    </td>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">09:00–10:30</td>
+    <td class="tg-ncd7">
+      <b>Oral presentations</b><br/>
+      <b>Advances and challenges in linking geophysical data with soil properties and states</b><br/>
+      Convener: Alejandro Romero-Ruiz
+    </td>
+  </tr>
+  <tr><td class="tg-c3ow">09:00</td><td class="tg-0pky"><b>Keynote Talk</b> — Static and dynamic aspects of non-invasive characterization and monitoring agricultural soils: assimilation with traditional probes and scale issues — <b>Giorgio Cassiani<b></td></tr>
+  <tr><td class="tg-c3ow">09:30</td><td class="tg-0pky">Why does soil water retention capacity and soil structure matter for agrogeophyics — Ana Heitor</td></tr>
+  <tr><td class="tg-c3ow">09:45</td><td class="tg-0pky">Non-invasive monitoring of subsoil structural changes: a four-year EMI study on bio-drilling and mechanical melioration — Aaron Sobbe</td></tr>
+  <tr><td class="tg-c3ow">10:00</td><td class="tg-0pky">Polarization processes and energy relationships between cations and negatively charged soil particles as revealed by Wien effect measurements — Shmulik Friedman</td></tr>
+  <tr><td class="tg-c3ow">10:15</td><td class="tg-0pky">Earth Rover Program: A Geophysical Initiative Developing Open-Source Sensors, Methodologies, and Data for Global Soil Health — Alexandra Gerea</td></tr>
+
+  <tr class="row-coffee">
+    <td class="tg-c3ow">10:30–10:50</td>
+    <td class="tg-fymr">☕ Coffee break</td>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">10:50–12:35</td>
+    <td class="tg-ncd7">
+      <b>Oral presentations</b><br/>
+      <b>Harnessing agrogeophysics for field-scale applications: Lessons and future directions</b><br/>
+      Convener: Anja Klotzsche
+    </td>
+  </tr>
+  <tr><td class="tg-c3ow">10:50</td><td class="tg-0pky">Multi-sensor mapping of peat depth in a restored Dutch peatland area — Diana Vigah Adetsu</td></tr>
+  <tr><td class="tg-c3ow">11:05</td><td class="tg-0pky">Ground water assessment at potential points of recharge in natural environment: a case study of Lusaka National Park — Phiri Elijah</td></tr>
+  <tr><td class="tg-c3ow">11:20</td><td class="tg-0pky">Application of ground-penetrating radar and electrical resistivity tomography to evaluate the impact of future construction on tree health in a historical botanical garden in Lisbon — Maria Paula Mendes</td></tr>
+  <tr><td class="tg-c3ow">11:35</td><td class="tg-0pky">Towards a Metadata Framework for Near-Surface Geophysical Data in Agriculture — Ulrike Werban</td></tr>
+  <tr><td class="tg-c3ow">11:50</td><td class="tg-0pky">What is the economic cost of soil compaction? Initial estimation via geophysical mapping and continental agroecosystem modelling — Alejandro Romero-Ruiz</td></tr>
+  <tr><td class="tg-c3ow">12:05</td><td class="tg-0pky"><b>Keynote Talk</b> — From Soil to Sip: how geophysics are unravelling 21st century wines — <b>António Graça<b></td></tr>
+
+  <tr class="row-red">
+    <td class="tg-c3ow">12:35–13:40</td>
+    <td class="tg-90e1">🍟 Lunch</td>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">13:40–15:25</td>
+    <td class="tg-ncd7">
+      <b>Oral presentations</b><br/>
+      <b>Monitoring soil moisture dynamics with geophysical methods</b><br/>
+      Convener: Agnese Innocenti
+    </td>
+  </tr>
+  <tr><td class="tg-c3ow">13:40</td><td class="tg-0pky"><b>Keynote Talk</b> — From electrical resistivity tomography to soil water content: Towards a novel Ensemble Approach — <b>Bertille Loiseau<b></td></tr>
+  <tr><td class="tg-c3ow">14:10</td><td class="tg-0pky">Just how wet is it? Defining resistivity / moisture content relationships in African Alfisols — Russell Swift</td></tr>
+  <tr><td class="tg-c3ow">14:25</td><td class="tg-0pky">Coupling ERT with Physics-Informed Machine Learning to Characterize Root Zone Water Dynamics — Caner Sakar</td></tr>
+  <tr><td class="tg-c3ow">14:40</td><td class="tg-0pky">Physics-informed neural networks for forward ERT modeling: an initial step toward mesh-free, time-dependent coupled hydro-geophysical inversion — Kuzma Tsukanov</td></tr>
+  <tr><td class="tg-c3ow">14:55</td><td class="tg-0pky"><b>Keynote Talk</b> — Exploring Soil–Water Dynamics in Dryland and Irrigated Long-Term Crop Rotation Experiments in Uruguay: An Agrogeophysical Approach — <b>Julián Andrés Ramos<b></td></tr>
+
+  <tr class="row-coffee">
+    <td class="tg-c3ow">15:25–15:45</td>
+    <td class="tg-fymr">☕ Coffee break</td>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">15:45–19:00</td>
+    <td class="tg-ncd7"><b>Workshops — part I</b> (parallel sessions)</td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">
+      <table class="ws-grid">
+        <tr>
+          <td style="width:33.33%;">
+            <div class="ws-card">
+              <div class="ws-title">OhmPi: an open-source resistivitymeter + processing timelapse ERT data: tips and tricks</div>
+              <div class="ws-meta">
+                <span class="icon">📍</span> GeoLAB
+                Guillaume Blanchy, Benjamin Mary &amp; Roelof Versteeg
+              </div>
+            </div>
+          </td>
+          <td style="width:33.33%;">
+            <div class="ws-card">
+              <div class="ws-title">Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop</div>
+              <div class="ws-meta">
+                <span class="icon">📍</span> Anfiteatro Abreu Faro
+                Lena Lärm and Anja Klotzsche
+              </div>
+            </div>
+          </td>
+          <td style="width:33.33%;">
+            <div class="ws-card">
+              <div class="ws-title">Open workshop on science communication</div>
+              <div class="ws-meta">
+                <span class="icon">📍</span> DER
+                Sarah Garré
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow">19:30</td>
+    <td class="tg-fymr">
+      🍽️ Conference dinner at Mãe Restaurante
+      (<a href="https://google/vdW5M74YJkcx8YMAE" target="_blank" rel="noopener noreferrer">map</a>)
+    </td>
+  </tr>
+
+  <!-- Day 2 -->
+  <tr>
+    <th class="tg-n533" colspan="2">Day 2 — Friday, February 6th, 2025</th>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">08:45–10:30</td>
+    <td class="tg-ncd7"><b>Workshops — part II</b> (parallel sessions)</td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">
+    <table class="ws-grid">
+      <tr>
+        <td width="33%">
+          <div class="ws-card">
+            <div class="ws-title">OhmPi: open-source resistivitymeter</div>
+            <div class="ws-meta">
+                <span class="icon">📍</span> GeoLAB
+              </span><br/>
+              Guillaume Blanchy, Benjamin Mary &amp; Roelof Versteeg
+              </div>
+            </div>
+          </td>
+          <td style="width:33.33%;">
+          <div class="ws-card">
+            <div class="ws-title">Ground Penetrating Radar workshop</div>
+            <div class="ws-meta">
+                <span class="icon">📍</span> Anfiteatro Abreu Faro
+              </span><br/>
+              Lena Lärm &amp; Anja Klotzsche
+              </div>
+            </div>
+          </td>
+          <td style="width:33.33%;">
+          <div class="ws-card">
+            <div class="ws-title">Science communication workshop</div>
+            <div class="ws-meta">
+                <span class="icon">📍</span> DER
+              </span><br/>
+              Sarah Garré
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr class="row-coffee">
+    <td class="tg-c3ow">10:30–10:50</td>
+    <td class="tg-fymr">☕ Coffee break</td>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">10:50–12:20</td>
+    <td class="tg-ncd7">
+      <b>Oral presentations</b><br/>
+      <b>Monitoring soil moisture dynamics with geophysical methods</b><br/>
+      Convener: João Narciso
+    </td>
+  </tr>
+  <tr><td class="tg-c3ow">10:50</td><td class="tg-0pky"><b>Keynote Talk</b> — Combined Geophysical and UAV-based Soil Property Characterization – Best Practices and Future Directions — <b>Katherine Grote<b></td></tr>
+  <tr><td class="tg-c3ow">11:20</td><td class="tg-0pky">Spatiotemporal integration of ECa and NDVI to uncover dynamic soil-crop interactions in water-limited environments — Karl Vanderlinden</td></tr>
+  <tr><td class="tg-c3ow">11:35</td><td class="tg-0pky">Novel methodologies for multi-sensor data fusion for high-resolution soil mapping — Samuel Mwendwa</td></tr>
+  <tr><td class="tg-c3ow">11:50</td><td class="tg-0pky"><b>Keynote Talk</b> — Geospatial Intelligence for Precision Agriculture: Integrating Multi-Sensor Drone Data for Soil-Water-Crop Dynamics — <b>Joaquim João Sousa<b></td></tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">12:20–13:00</td>
+    <td class="tg-ncd7"><b>Poster pitch</b> — Convener: Alejandro Romero-Ruiz</td>
+  </tr>
+
+  <tr><td class="tg-c3ow">12:20</td><td class="tg-0pky">The Use of Seismic Surveys to Monitor Soil Compaction under Different Watering Regimes in Agricultural Fields — Basry Yadi Tang</td></tr>
+  <tr><td class="tg-c3ow">12:24</td><td class="tg-0pky">Coupling Functional-Structural Plant and Electromagnetic Wave Modeling: A gprMax-CPlantBox Framework for Root-Zone Studies — Lena Lärm</td></tr>
+  <tr><td class="tg-c3ow">12:28</td><td class="tg-0pky">Investigating the effect of sugar beets and maize crops on EMI and GPR signals — Tilman Hiller</td></tr>
+  <tr><td class="tg-c3ow">12:32</td><td class="tg-0pky">Monitoring soil salinity using EMI in Irrigated Lands in Portugal — Mohammad Farzamian</td></tr>
+  <tr><td class="tg-c3ow">12:36</td><td class="tg-0pky">A Synthetic Study of the Cosmic Ray Neutron Sensing Detector Response to Heterogeneous Soils and Moisture Content Distribution for Agrogeophysical Applications — Viola Cioffi</td></tr>
+  <tr><td class="tg-c3ow">12:40</td><td class="tg-0pky">Does 3D ERT inform sap flow geometry in a canary palm stem? — Ziv Moreno</td></tr>
+  <tr><td class="tg-c3ow">12:44</td><td class="tg-0pky">Building up a plot-scale hydrogeological model using results from near-surface geophysical techniques — Maria Catarina Paz</td></tr>
+  <tr><td class="tg-c3ow">12:48</td><td class="tg-0pky">Performance Evaluation of Proximal and Remote Sensors for Mapping Subsurface Drainage Systems Under Controlled Conditions — Sai Nagarjuna Reddy Meka</td></tr>
+  <tr><td class="tg-c3ow">12:52</td><td class="tg-0pky">Exploring soil management legacies in agronomy through EM and ERT — Benjamin Mary</td></tr>
+  <tr><td class="tg-c3ow">12:56</td><td class="tg-0pky">Experimental fields too have an history — Guillaume Blanchy</td></tr>
+
+  <tr class="row-red">
+    <td class="tg-c3ow">13:00–14:30</td>
+    <td class="tg-90e1">🍟 Lunch and Poster Discussion</td>
+  </tr>
+
+  <tr class="row-yellow">
+    <td class="tg-c3ow">14:30–15:45</td>
+    <td class="tg-ncd7">
+      <b>Oral presentations</b><br/>
+      <b>Geophysical signatures of plant-soil interactions</b><br/>
+      Convener: Lena Lärm
+    </td>
+  </tr>
+
+  <tr><td class="tg-c3ow">14:30</td><td class="tg-0pky"><b>Keynote Talk</b> — Investigating soil-plant-atmosphere interactions by combining spectral electrical impedance tomography with environmental and physiological time series — <b>Valentin Michels<b></td></tr>
+  <tr><td class="tg-c3ow">15:00</td><td class="tg-0pky">Investigating the effect of maize roots and nitrate using horizontal crosshole GPR data – A case study from the field minirhizotron facilities — Anja Klotzsche</td></tr>
+  <tr><td class="tg-c3ow">15:15</td><td class="tg-0pky">Evaluating the precrop effect of legumes using electromagnetic induction — Inge Speeckaert</td></tr>
+  <tr><td class="tg-c3ow">15:30</td><td class="tg-0pky">ERT-Based Phenotyping of Root Architecture and Water Use Efficiency in Wheat — Nimrod Schwartz</td></tr>
+
+  <tr>
+    <td class="tg-c3ow">15:45</td>
+    <td class="tg-fymr">Closing words</td>
+  </tr>
+
+  <tr>
+    <td class="tg-c3ow">17:00–18:00</td>
+    <td class="tg-fymr">
+      🥂 Farewell drinks:
+      <a href="https://www.cervetecalisboa.com/" target="_blank" rel="noopener noreferrer">CERVETECA Lisboa</a>
+    </td>
+  </tr>
+
+</tbody>
+</table>
+
+</div>
