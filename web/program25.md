@@ -74,7 +74,10 @@ template: base.html
   <tr>
     <th class="tg-n533" colspan="2">Day 1 — Thursday, February 5th, 2026</th>
   </tr>
-
+    <tr>
+    <td class="tg-c3ow">08:15</td>
+    <td class="tg-fymr">📝 Registration</td>
+    </tr>
   <tr>
     <td class="tg-c3ow">08:45</td>
     <td class="tg-fymr">
