@@ -158,7 +158,7 @@ template: base.html
     <td class="tg-0pky">
       <table class="ws-grid">
         <tr>
-          <td style="width:33.33%;">
+          <td style="width:50%;">
             <div class="ws-card">
               <div class="ws-title">OhmPi: an open-source resistivitymeter + processing timelapse ERT data: tips and tricks</div>
               <div class="ws-meta">
@@ -167,21 +167,12 @@ template: base.html
               </div>
             </div>
           </td>
-          <td style="width:33.33%;">
+          <td style="width:50%;">
             <div class="ws-card">
               <div class="ws-title">Unlocking the Power of Ground Penetrating Radar in Agrogeophysics: A Hands-on Workshop</div>
               <div class="ws-meta">
                 <span class="icon">📍</span> Anfiteatro Abreu Faro
                 Lena Lärm and Anja Klotzsche
-              </div>
-            </div>
-          </td>
-          <td style="width:33.33%;">
-            <div class="ws-card">
-              <div class="ws-title">Open workshop on science communication</div>
-              <div class="ws-meta">
-                <span class="icon">📍</span> DER
-                Sarah Garré
               </div>
             </div>
           </td>
@@ -191,10 +182,22 @@ template: base.html
   </tr>
 
   <tr>
+  <tr class="row-yellow">
+    <td class="tg-c3ow">17:30 - 19:00</td>
+    <td class="tg-fymr">
+      <div class="ws-title">Open workshop on science communication</div>
+            Sarah Garré
+      <div class="ws-meta">
+      <span class="icon">📍</span> tba.
+    </td>
+  </tr>
+  </tr>
+  
+  <tr>
     <td class="tg-c3ow">19:30</td>
     <td class="tg-fymr">
       🍽️ Conference dinner at Mãe Restaurante
-      (<a href="https://google/vdW5M74YJkcx8YMAE" target="_blank" rel="noopener noreferrer">map</a>)
+      (<a href="https://share.google/oMcMDdmqnGYaJsWv5" target="_blank" rel="noopener noreferrer">maps</a>)
     </td>
   </tr>
 
