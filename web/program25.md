@@ -216,7 +216,7 @@ template: base.html
     <td class="tg-0pky">
     <table class="ws-grid">
       <tr>
-        <td width="33%">
+        <td width="50%">
           <div class="ws-card">
             <div class="ws-title">OhmPi: open-source resistivitymeter</div>
             <div class="ws-meta">
@@ -226,7 +226,7 @@ template: base.html
               </div>
             </div>
           </td>
-          <td style="width:33.33%;">
+          <td style="width:50%;">
           <div class="ws-card">
             <div class="ws-title">Ground Penetrating Radar workshop</div>
             <div class="ws-meta">
@@ -234,15 +234,6 @@ template: base.html
               </span><br/>
               Lena Lärm &amp; Anja Klotzsche
               </div>
-            </div>
-          </td>
-          <td style="width:33.33%;">
-          <div class="ws-card">
-            <div class="ws-title">Science communication workshop</div>
-            <div class="ws-meta">
-                <span class="icon">📍</span> DER
-              </span><br/>
-              Sarah Garré
             </div>
           </td>
         </tr>
