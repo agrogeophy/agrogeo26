@@ -118,7 +118,6 @@ template: base.html
     </td>
   </tr>
   <tr><td class="tg-c3ow">10:50</td><td class="tg-0pky">Multi-sensor mapping of peat depth in a restored Dutch peatland area — Diana Vigah Adetsu</td></tr>
-  <tr><td class="tg-c3ow">11:05</td><td class="tg-0pky">Ground water assessment at potential points of recharge in natural environment: a case study of Lusaka National Park — Phiri Elijah</td></tr>
   <tr><td class="tg-c3ow">11:20</td><td class="tg-0pky">Application of ground-penetrating radar and electrical resistivity tomography to evaluate the impact of future construction on tree health in a historical botanical garden in Lisbon — Maria Paula Mendes</td></tr>
   <tr><td class="tg-c3ow">11:35</td><td class="tg-0pky">Towards a Metadata Framework for Near-Surface Geophysical Data in Agriculture — Ulrike Werban</td></tr>
   <tr><td class="tg-c3ow">11:50</td><td class="tg-0pky">What is the economic cost of soil compaction? Initial estimation via geophysical mapping and continental agroecosystem modelling — Alejandro Romero-Ruiz</td></tr>
