@@ -196,8 +196,8 @@ template: base.html
   <tr>
     <td class="tg-c3ow">19:30</td>
     <td class="tg-fymr">
-      🍽️ Conference dinner at Mãe Restaurante
-      (<a href="https://share.google/oMcMDdmqnGYaJsWv5" target="_blank" rel="noopener noreferrer">maps</a>)
+      🍽️ Conference dinner at GULA'S FOR THE KITCHEN LOVERS (Rua Dona Filipa de Vilhena, 18a, Lisboa)
+      (<a href="https://www.aminhagula.pt/" target="_blank" rel="noopener noreferrer">Website</a>)
     </td>
   </tr>
 
