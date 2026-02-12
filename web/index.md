@@ -31,6 +31,9 @@ Agriculture + geophysics = agrogeophysics! What are the current, potential and, 
 
 
 ## Universidade de Lisboa, Lisbon 5th and 6th February 2026
+<figure>
+	<img alt="Instituto Superior Técnico" src="images/agrogeo26.jpeg">
+</figure>
 
 <!-- Want to join? [Register now](https://www.eventbrite.com/e/3rd-agrogeophysics-seminar-illuminating-the-subsurface-tickets-719678225947?aff=oddtdtcreator) and [submit an abstract](abstracts.html)!
 -->
@@ -79,10 +82,10 @@ Here you can also [download it as a PDF](media/booklet_of_abstracts.pdf)
 
 -->
 
-**Abstract submission & registration**:
+<!-- **Abstract submission & registration**:
 - Abstract submission is closed
 - Registration is still open: [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSdn1yXPyqZ8suvLRPLrsYW-XMDGltkVH0woKOUe2INRsUCsfg/viewform?usp=header) 
-<hr>
+<hr> -->
 
 ## About this event
 
